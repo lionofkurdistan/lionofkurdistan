@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Sahand Aso Ail</h1>
 <h3 align="center">A Passionate Developer From Kurdistan</h3>
 
-## About Me
+## 👤About Me
 
 <img align="right" src="https://github.com/lionofkurdistan/lionofkurdistan/blob/main/img/0_C-cPP9D2MIyeexAT.gif">
 
