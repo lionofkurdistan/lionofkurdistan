@@ -20,7 +20,12 @@
 
 - 💻 All of my projects are available in my github acc
 
-
+## Support Money
+- in kurdistan :
+> fastpay : 07702118874
+> Asiacell : 07702118874
+- in world
+<a href="https://www.paypal.me/sahandasoail">Paypal</a>
 ## 📳𝗦𝗼𝗰𝗶𝗮𝗹-𝗠𝗲𝗱𝗶𝗮
 <p align="center">
         <a href="https://www.linkedin.com/in/sahand-aso-04a513183" target="blank"><img align="center"
