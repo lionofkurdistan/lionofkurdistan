@@ -22,8 +22,8 @@
 
 ## Support Money
 - in kurdistan :
-> fastpay : 07702118874
-> Asiacell : 07702118874
+ fastpay : 07702118874
+ Asiacell : 07702118874
 - in world
 <a href="https://www.paypal.me/sahandasoail">Paypal</a>
 ## 📳𝗦𝗼𝗰𝗶𝗮𝗹-𝗠𝗲𝗱𝗶𝗮
