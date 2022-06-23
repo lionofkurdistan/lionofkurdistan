@@ -16,3 +16,5 @@
 - 🎧 I can help you in Codin and design and dev bot discord
 
 - 💻 All of my projects are available in my github acc
+
+## 📳𝗦𝗼𝗰𝗶𝗮𝗹-𝗠𝗲𝗱𝗶𝗮
