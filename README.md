@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Developer From Kurdistan</h3>
 
 ## About Me
-<img align="right"src="https://github.com/sahandaso/sahandaso/blob/main/e01f6d_58672226f95043c58c3c3d51e609cb82_mv2.gif">
+<img align="right"https://github.com/lionofkurdistan/lionofkurdistan/blob/main/img/0_C-cPP9D2MIyeexAT.gif">
 
 - 👨🏻‍🦱 Hi, I'm sahand **I'm programmer**
 
