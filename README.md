@@ -51,3 +51,7 @@
 ### 💥Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lionofkurdistan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### GitHub Profile Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionofkurdistan&show_icons=true&theme=radical)
