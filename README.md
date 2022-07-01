@@ -58,6 +58,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionofkurdistan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💡Recent GitHub Activity
+### ⚡Recent GitHub Activity
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lionofkurdistan)  
+
+### 🔱Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lionofkurdistan)](https://github.com/ryo-ma/github-profile-trophy)
