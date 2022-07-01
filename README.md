@@ -52,8 +52,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lionofkurdistan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### ♾️GitHub Profile Stats
+### 🔥GitHub Profile Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionofkurdistan&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionofkurdistan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💡Recent GitHub Activity
+
+<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+ 
