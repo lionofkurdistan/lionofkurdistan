@@ -50,4 +50,4 @@
 
 ### 💥Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linofkurdistan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lionofkurdistan&theme=dark&hide_border=true)](https://git.io/streak-stats)
