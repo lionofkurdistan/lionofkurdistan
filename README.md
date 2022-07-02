@@ -60,10 +60,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionofkurdistan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+ ###⚡ Recent GitHub Activity
+  
+ <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  
 
 
 ### 🔱Github Profile Trophy
