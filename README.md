@@ -27,6 +27,21 @@
 > fastpay And Asiacell : 07702118874
 - in world :
 <a href="https://www.paypal.me/sahandasoail">Paypal</a>
+
+‌## 💾Software And Language
+
+### Language 
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+
+</div>
+
+
+
 ## 📳𝗦𝗼𝗰𝗶𝗮𝗹-𝗠𝗲𝗱𝗶𝗮
 <p align="center">
         <a href="https://www.linkedin.com/in/sahand-aso-04a513183" target="blank"><img align="center"
