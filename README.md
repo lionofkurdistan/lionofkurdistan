@@ -22,13 +22,6 @@
 
 - 💻 All of my projects are available in my github acc
 
-## 💶Support Money
-- in kurdistan :
-> fastpay And Asiacell : 07702118874
-- in world :
-<a href="https://www.paypal.me/sahandasoail">Paypal</a>
-<br>
-
 ‌## 💾Software And Language
 
 ### Language 
@@ -42,6 +35,15 @@
 </div>
 
 
+
+## 💶Support Money
+- in kurdistan :
+> fastpay And Asiacell : 07702118874
+- in world :
+<a href="https://www.paypal.me/sahandasoail">Paypal</a>
+<br>
+
+‌
 
 ## 📳𝗦𝗼𝗰𝗶𝗮𝗹-𝗠𝗲𝗱𝗶𝗮
 <p align="center">
