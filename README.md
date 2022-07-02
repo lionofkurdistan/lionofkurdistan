@@ -61,6 +61,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionofkurdistan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
+
  ### ⚡Recent GitHub Activity
   
  <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
