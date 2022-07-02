@@ -60,13 +60,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionofkurdistan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<details>
-  <summary>📈 Activity Graph</summary>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
 ### 🔱Github Profile Trophy
