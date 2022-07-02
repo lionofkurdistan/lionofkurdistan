@@ -22,6 +22,7 @@
 
 - 💻 All of my projects are available in my github acc
 
+<hr>
 ‌## 💾Software And Language
 
 ### Language 
