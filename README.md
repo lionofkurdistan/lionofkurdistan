@@ -64,7 +64,8 @@
   
  <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lionofkurdistan&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   
-
+### 👥Profile views
+![Profile views](https://gpvc.arturio.dev/lionofkurdistan)  
 
 ### 🔱Github Profile Trophy
 
