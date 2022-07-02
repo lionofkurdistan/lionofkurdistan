@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=Hi+Welcom+To+My+Github)](https://git.io/typing-svg)
 ![MasterHead](https://github.com/lionofkurdistan/lionofkurdistan/blob/main/img/Picsart_22-06-23_16-28-55-217.jpg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
