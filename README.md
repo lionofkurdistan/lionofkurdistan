@@ -46,5 +46,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lionofkurdistan&show_icons=true&locale=en&layout=compact" alt="lionofkurdistan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lionofkurdistan&show_icons=true&locale=en" alt="lionofkurdistan" /></p>
-
+<br>
+<h3 align="left">Streak Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lionofkurdistan&" alt="lionofkurdistan" /></p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionofkurdistan" alt="lionofkurdistan" /></a> </p>
