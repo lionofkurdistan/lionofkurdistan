@@ -49,5 +49,3 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lionofkurdistan&show_icons=true&locale=en" alt="lionofkurdistan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lionofkurdistan&" alt="lionofkurdistan" /></p>
