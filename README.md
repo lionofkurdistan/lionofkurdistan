@@ -47,8 +47,6 @@
 <h3 align="left">Streak Stats:</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lionofkurdistan&theme=buefy-dark" alt="GitHub Streak" /></a>
 <br>
-<h3 align="left">Streak Stats:</h3>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lionofkurdistan&theme=2077)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lionofkurdistan&show_icons=true&locale=en" alt="lionofkurdistan" /></p>
 
